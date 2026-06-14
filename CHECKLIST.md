@@ -18,7 +18,7 @@ Beantworte bevor du weitermachst:
 - Was bedeutet die Ausgabe von `git status`?
 - Was ist der Unterschied zwischen `git init` und `git clone`?
 - Was ist ein "Working Tree"?
-- [ ] Fertig
+- [x] Fertig
 
 ---
 
@@ -34,7 +34,7 @@ Wenn du `.env` einmal committet hast, ist der API-Key in der Git-History —
 selbst wenn du die Datei danach löschst. Das ist nicht rückgängig zu machen ohne
 History-Rewrite. Frage die du beantworten sollst: Warum reicht es nicht, `.env`
 einfach später zu löschen und neu zu committen?
-- [ ] Fertig
+- [x] Fertig
 
 ---
 
@@ -47,7 +47,7 @@ git commit -m "???"
 ```
 Schreibe selbst eine Commit-Message. Ich erkläre danach, was einen guten
 Commit-Message-Stil ausmacht (Imperativ, max. 72 Zeichen, Warum nicht Was).
-- [ ] Fertig
+- [x] Fertig
 
 ---
 
@@ -62,7 +62,7 @@ git push -u origin main
 ```
 **Lernziel:** Was bedeutet `origin`? Was macht `-u`? Was ist der Unterschied zwischen
 `main` und `master`?
-- [ ] Fertig
+- [x] Fertig
 
 ---
 
